@@ -1,4 +1,4 @@
-(defproject behaviour_trees "0.1.0-SNAPSHOT"
+(defproject behaviour_trees "0.1.0"
   :description "Building blocks for creating behaviour trees."
   :url "https://github.com/samuelsarle/behaviour_trees"
   :license {:name "Unlicense"
