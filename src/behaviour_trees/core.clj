@@ -41,7 +41,7 @@
 
 (defmacro until-failure
   [x]
-  `(until (false? ~x)))
+  `(until (not (true? ~x))))
 
 (defmacro inverter
   [x]
